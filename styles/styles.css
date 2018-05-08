@@ -1,0 +1,32 @@
+nav {
+  background-color: blue;
+  overflow: hidden;
+}
+
+nav img {
+  position: relative;
+  float:left;
+  width: 100px;
+  height: 100px;
+}
+
+aside {
+  background-color: red;
+  float: right;
+  padding-top: 100;
+  width: 25%;
+}
+
+#video {
+  background-color: yellow;
+  width: 60%;
+}
+
+#videoDesc {
+  background-color: green;
+  width: 60%;
+}
+
+#lastThreeNavItems {
+  float: right;
+}
